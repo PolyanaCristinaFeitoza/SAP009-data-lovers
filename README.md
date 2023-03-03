@@ -9,7 +9,8 @@
 
 ## 2. Histórias de Usuários:
 
-## Personagens: Eu, como usuário, gostaria de saber o nome de todos os personagens, sua espécie, gênero, 
+## Personagens:
+  Eu, como usuário, gostaria de saber o nome de todos os personagens, sua espécie, gênero, 
   data de nascimento, casa de estudo e saber se ele é trouxa ou não para conhecer melhor os personagens.<br/>
 
   ![alt text](https://f001.backblazeb2.com/file/papocine/2016/11/20161114-universo-harry-potter-papo-de-cinema.jpg)
