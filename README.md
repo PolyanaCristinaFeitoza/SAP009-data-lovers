@@ -10,7 +10,6 @@
 ## 2. Histórias de Usuários:
 
 ## 🧙 Personagens:
-<<<<<<< HEAD
 
 Eu, como usuário, gostaria de saber o nome de todos os personagens, sua espécie, gênero,
 data de nascimento, casa de estudo e saber se ele é trouxa ou não para conhecer melhor os personagens.<br/>
