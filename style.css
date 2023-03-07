@@ -3,6 +3,7 @@
     font-family: "Harry";
     src: url("HARRYP__.TTF") format("truetype");
 }
+
 h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -30,6 +31,7 @@ h2{
        1px -1px 0px rgb(36, 19, 77),
        1px 0px 0px rgb(39, 16, 75);
 }
+
 p{
     text-align: justify;
     font-family: Arial, Helvetica, sans-serif;
@@ -44,11 +46,14 @@ p{
        1px -1px 0px rgb(36, 19, 77),
        1px 0px 0px rgb(39, 16, 75)
 }
+
 .paragrafo{
-    width: 400px;
+    max-width: 600px;
     margin: 0 auto;
+    padding: 13px;
 
 }
+
 h3{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
@@ -144,19 +149,22 @@ nav ul li a{
     padding: 20px;
     text-decoration: none;
 }
+
 body{
     background-image: url(harry.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
     p{
      width: 100%;
     }
-    .paragrafo{
-        width: 100%;
+    main{
+      min-height: 850px;
     }
 }
 
@@ -164,7 +172,7 @@ footer {
   line-height: 0.3px;
   background-color: rgb(0, 37, 68);
   font-family: Arial, sans-serif;
-  padding: 0.1px;
+  padding: 0.3px;
   text-align: center;
   position: fixed;
   bottom: 0;
@@ -187,12 +195,15 @@ footer a:hover {
   text-decoration: underline;
 }
 
+footer h5 {
+  color: #fff;
+  text-decoration: none;
+}
+
 .fab.fa-github {
   font-size: 1.2em;
   vertical-align: middle;
 }
-
-
 
 
 
