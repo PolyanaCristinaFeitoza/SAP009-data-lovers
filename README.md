@@ -42,4 +42,3 @@ Eu, como usuário, gostaria de ter mais informações sobre todos os livros lan�
 dia de lançamento, descrição e nome do autor para ter mais conhecimento sobre a saga.<br/>
 
 ![alt text](https://http2.mlstatic.com/D_NQ_NP_2X_750536-MLB47441394358_092021-F.webp)
-
